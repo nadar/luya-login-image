@@ -7,7 +7,7 @@
 	"authors" : [
 		{
 			"name": "Basil Suter",
-			"email": "basil@datra.io"
+			"email": "basil@nadar.io"
 		}
 	],
 	"require": {
@@ -29,7 +29,7 @@
 	"extra" : {
 		"luya" : {
 			"bootstrap": [
-				"src/LoginImageBootstrap.php"
+				"Nadar\\LoginImage\\LoginImageBootstrap"
 			]
 		}
 	}
