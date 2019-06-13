@@ -25,5 +25,12 @@
        "psr-4" : {
            "VENDOR\\NAME\\tests\\" : "tests/"
        }
-    }
+	},
+	"extra" : {
+		"luya" : {
+			"bootstrap": [
+				"src/LoginImageBootstrap.php"
+			]
+		}
+	}
 }
