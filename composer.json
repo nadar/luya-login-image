@@ -1,21 +1,24 @@
 {
-	"name" : "VENDOR/NAME",
-	"description" : "",
+	"name" : "nadar/luya-login-image",
+	"description" : "LUYA admin login background image service.",
 	"type" : "luya-extension",
 	"keywords" : ["luya"],
 	"license": "MIT",
 	"authors" : [
 		{
-			"name": "",
-			"email": ""
+			"name": "Basil Suter",
+			"email": "basil@datra.io"
 		}
 	],
+	"require": {
+		"luyadev/luya-module-admin" : "^2.0"
+	},
 	"require-dev" : {
-	    "luyadev/luya-testsuite" : "~1.0.0"
+	    "luyadev/luya-testsuite" : "^1.0"
 	},
 	"autoload" : {
 		"psr-4" : {
-			"VENDOR\\NAME\\" : "src/"
+			"Nadar\\LoginImage\\" : "src/"
 		}
 	},
 	"autoload-dev" : {
