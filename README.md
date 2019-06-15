@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/luyadev/luya/master/docs/logo/luya-logo-0.2x.png" alt="LUYA Logo"/>
 </p>
 
-# LUYA nadar/luya-login-image extension
+# LUYA Admin background image
 
 [![LUYA](https://img.shields.io/badge/Powered%20by-LUYA-brightgreen.svg)](https://luya.io)
 
-This will display a background image on the LUYA admin login screen. The images are curated by myself.
+This will display a background image on the LUYA admin login screen. The images are curated by myself and will contain landscapes or pictures about special events. The images will change from time to time so you won't get boreded whenever log into admin area.
 
 ![Background Login Image](https://raw.githubusercontent.com/nadar/luya-login-image/master/bg-image.png)
 
