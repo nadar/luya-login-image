@@ -8,6 +8,8 @@
 
 This will display a background image on the LUYA admin login screen. The images are curated by myself.
 
+![Background Login Image](https://raw.githubusercontent.com/nadar/luya-login-image/master/bg-image.png)
+
 ## Installation
 
 Install the extension through composer:
