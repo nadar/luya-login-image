@@ -8,7 +8,7 @@
 [![Latest Stable Version](https://poser.pugx.org/nadar/luya-login-image/v/stable)](https://packagist.org/packages/nadar/luya-login-image)
 [![Total Downloads](https://poser.pugx.org/nadar/luya-login-image/downloads)](https://packagist.org/packages/nadar/luya-login-image)
 
-This will display a background image on the LUYA admin login screen. The images are curated by myself and will contain landscapes or pictures about special events. The images will change from time to time so you won't get boreded whenever log into admin area.
+This will display a background image on the LUYA admin login screen. The images are curated by myself and will contain landscapes or pictures about special events. The images will change from time to time so you won't get bored whenever log into admin area.
 
 ![Background Login Image](https://raw.githubusercontent.com/nadar/luya-login-image/master/bg-image.png)
 
